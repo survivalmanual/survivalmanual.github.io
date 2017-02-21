@@ -3,64 +3,63 @@ title: Home.md
 layout: index
 permalink: /
 ---
-### [01 Introduction](01)
+### [Psychology](02)
 
-### [02 Psychology](02)
+### [Planning and Kits](03)
 
-### [03 Planning and Kits](03)
+### [Basic Medicine](04)
 
-### [04 Basic Medicine](04)
+### [Shelter](05)
 
-### [05 Shelter](05)
+### [Water Procurement](06)
 
-### [06 Water Procurement](06)
+### [Firecraft](07)
 
-### [07 Firecraft](07)
+### [Food Procurement](08)
 
-### [08 Food Procurement](08)
+### [Survival Use of Plants](09)
 
-### [09 Survival Use of Plants](09)
+### [Poisonous Plants](10)
 
-### [10 Poisonous Plants](10)
+### [Dangerous Animals](11)
 
-### [11 Dangerous Animals](11)
+### [Field-Expedient Weapons, Tools, and Equipment](12)
 
-### [12 Field-Expedient Weapons, Tools, and Equipment](12)
+### [Desert](13)
 
-### [13 Desert](13)
+### [Tropical](14)
 
-### [14 Tropical](14)
+### [Cold Weather](15)
 
-### [15 Cold Weather](15)
+### [Sea](16)
 
-### [16 Sea](16)
+### [Expedient Water Crossing](17)
 
-### [17 Expedient Water Crossing](17)
+### [Field-Expedient Direction Finding](18)
 
-### [18 Field-Expedient Direction Finding](18)
+### [Signaling Techniques](19)
 
-### [19 Signaling Techniques](19)
+### [Survival in Hostile Areas](20)
 
-### [20 Survival in Hostile Areas](20)
+### [Camouflage](21)
 
-### [21 Camouflage](21)
+### [Contact With People](22)
 
-### [22 Contact With People](22)
+### [Survival in Man-Made Hazards](23)
 
-### [23 Survival in Man-Made Hazards](23)
+Appendix
+========
 
-### [a Survival Kits](a)
+### [Edible and Medicinal Plants](b)
 
-### [b Edible and Medicinal Plants](b)
+### [Poisonous Plants](c)
 
-### [c Poisonous Plants](c)
+### [Dangerous Insects and other Arthropods](d)
 
-### [d Dangerous Insects and Arachnids](d)
+### [Venomous Snakes and Mollusks](e)
 
-### [e Venomous Snakes and Mollusks](e)
+### [Dangerous Fish and Mollusks](f)
 
-### [f Dangerous Fish and Mollusks](f)
+### [Ropes and Knots](g)
 
-### [g Ropes and Knots](g)
-
-### [h Clouds Foretellers of Weather](h)
+### [Clouds Foretellers of Weather](h)

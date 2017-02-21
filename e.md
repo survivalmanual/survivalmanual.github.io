@@ -128,7 +128,7 @@ Only by examining a dead snake can you positively determine if it is a cobra or 
 
 <a name="fige-6"></a>![Figure E-6\. Positive Identification of Cobras, Kraits,and Coral Snakes](image273.jpg)
 
-**Figure E-6\. Positive Identification of Cobras, Kraits,and Coral Snakes**
+**Figure E-6\. Positive Identification of Cobras, Kraits, and Coral Snakes**
 
 You can find the cobras of Africa and the Near East in almost any habitat. One kind may live in or near water, another in trees. Some are aggressive and savage. The distance a cobra can strike in a forward direction is equal to the distance its head is raised above the ground. Some cobras, however, can spit venom a distance of 3 to 3.5 meters (10 to 12 feet). This venom is harmless unless it gets into your eyes; then it may cause blindness if not washed out immediately. Poking around in holes and rock piles is dangerous because of the chance of encountering a spitting cobra.
 
