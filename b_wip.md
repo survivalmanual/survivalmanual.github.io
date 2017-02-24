@@ -4,8 +4,7 @@ layout: default
 permalink: /b_wip
 ---
 > In a survival situation, plants can provide food and medicine. Their safe use requires absolutely positive identification, knowing how to prepare them for eating, and knowing any dangerous properties they might have. Familiarity with botanical structures of plants and information on where they grow will make them easier to locate and identify. This appendix provides pictures, descriptions, habitats and distribution, and edible parts of the most common plants that you might encounter.
-
-* * *
+** *
 
 ![](image163.jpg)
 
@@ -17,8 +16,7 @@ _Calligonum comosum_
 **Habitat and Distribution:** This plant is found in desert scrub and waste in any climatic zone. It inhabits much of the North African desert. It may also be found on the desert sands of the Middle East and as far eastward as the Rajputana desert of western India.
 
 **Edible Parts:** This plant's general appearance would not indicate its usefulness to you, but while this plant is flowering in the spring, its fresh flowers can be eaten. It is common in the areas where it is found. An analysis of the abal's food value has shown it to be high in sugar and nitrogenous components.
-
-* * *
+** *
 
 ![](image164.jpg)
 
@@ -34,8 +32,7 @@ _Acacia farnesiana_
 **Edible Parts:** Its young leaves, flowers, and pods are edible raw or cooked.
 
 ![](image165.jpg)
-
-* * *
+** *
 
 ![](image166.jpg)
 
@@ -53,8 +50,7 @@ _Agave_ species
 > The juice of some species causes dermatitis in some individuals.
 
 **Other Uses:** Cut the huge flower stalk and collect the juice for drinking. Some species have very fibrous leaves. Pound the leaves and remove the fibers for weaving and making ropes. Most species have thick, sharp needles at the tips of the leaves. Use them for sewing or making hacks. The sap of some species contains a chemical that makes the sap suitable for use as a soap.
-
-* * *
+** *
 
 ![](image1.jpg)
 
@@ -66,8 +62,7 @@ _Prunus amygdalus_
 **Habitat and Distribution:** Almonds are found in the scrub and thorn forests of the tropics, the evergreen scrub forests of temperate areas, and in desert scrub and waste in all climatic zones. The almond tree is also found in the semidesert areas of the Old World in southern Europe, the eastern Mediterranean, Iran, the Middle East, China, Madeira, the Azores, and the Canary Islands.
 
 **Edible Parts:** The mature almond fruit splits open lengthwise down the side, exposing the ripe almond nut. You can easily get the dry kernel by simply cracking open the stone. Almond meats are rich in food value, like all nuts. Gather them in large quantities and shell them for further use as survival food. You could live solely on almonds for rather long periods. When you boil them, the kernel's outer covering comes off and only the white meat remains.
-
-* * *
+** *
 
 ![](image2.jpg)
 
@@ -79,8 +74,7 @@ _Amaranthus_ species
 **Habitat and Distribution:** Look for amaranth along roadsides, in disturbed waste areas, or as weeds in crops throughout the world. Some amaranth species have been grown as a grain crop and a garden vegetable in various parts of the world, especially in South America.
 
 **Edible Parts:** All parts are edible, but some may have sharp spines you should remove before eating. The young plants or the growing tips of older plants are an excellent vegetable. Simply boil the young plants or eat them raw. Their seeds are very nutritious. Shake the tops of older plants to get the seeds. Eat the seeds raw, boiled, ground into flour, or popped like popcorn.
-
-* * *
+** *
 
 ![](image167.jpg)
 
@@ -92,8 +86,7 @@ _Salix arctica_
 **Habitat and Distribution:** The arctic willow is common on tundras in North America, Europe, and Asia. You can also find it in some mountainous areas in temperate regions.
 
 **Edible Parts:** You can collect the succulent, tender young shoots of the arctic willow in early spring. Strip off the outer bark of the new shoots and eat the inner portion raw. You can also peel and eat raw the young underground shoots of any of the various kinds of arctic willow. Young willow leaves are one of the richest sources of vitamin C, containing 7 to 10 times more than an orange.
-
-* * *
+** *
 
 ![](image3.jpg)
 
@@ -107,8 +100,7 @@ Maranta and Sagittaria_ species
 **Edible Parts:** The rootstock is a rich source of high quality starch. Boil the rootstock and eat it as a vegetable.
 
 ![](image168.jpg)
-
-* * *
+** *
 
 ![](image4.jpg)
 
@@ -124,8 +116,7 @@ _Asparagus officinalis_
 > **WARNING**
 >
 > Do not eat the fruits of any since some are toxic.
-
-* * *
+** *
 
 ![](image169.jpg)
 
@@ -139,8 +130,7 @@ _Aegle marmelos_
 **Edible Parts:** The fruit, which ripens in December, is at its best when just turning ripe. The juice of the ripe fruit, diluted with water and mixed with a small amount of tamarind and sugar or honey, is sour but refreshing. Like other citrus fruits, it is rich in vitamin C.
 
 ![](image170.jpg)
-
-* * *
+** *
 
 ![](image5.jpg)
 
@@ -158,8 +148,7 @@ Various species including _Bambusa, Dendrocalamus, Phyllostachys_
 > **CAUTION**
 >
 > Green bamboo may explode in a fire. Green bamboo has an internal membrane you must remove before using it as a food or water container.
-
-* * *
+** *
 
 ![](image6.jpg)
 
@@ -175,8 +164,7 @@ _Musa_ species
 **Other Uses:** You can use the layers of the lower third of the plants to cover coals to roast food. You can also use their stumps to get water (see [Chapter 6](06)). You can use their leaves to wrap other foods for cooking or storage.
 
 ![](image171.jpg)
-
-* * *
+** *
 
 ![](image7.jpg)
 
@@ -190,8 +178,7 @@ _Adansonia digitata_
 **Edible Parts:** You can use the young leaves as a soup vegetable. The tender root of the young baobab tree is edible. The pulp and seeds of the fruit are also edible. Use one handful of pulp to about one cup of water for a refreshing drink. To obtain flour, roast the seeds, and then grind them.
 
 **Other Uses:** Drinking a mixture of pulp and water will help cure diarrhea. Often the hollow trunks are good sources of fresh water. The bark can be cut into strips and pounded to obtain a strong fiber for making rope.
-
-* * *
+** *
 
 ![](image8.jpg)
 
@@ -217,8 +204,7 @@ _Arctostaphylos uvaursi_
 **Habitat and Distribution:** This plant is found in arctic, subarctic, and temperate regions, most often in sandy or rocky soil.
 
 **Edible Parts:** Its berries are edible raw or cooked. You can make a refreshing tea from its young leaves.
-
-* * *
+** *
 
 ![](image9.jpg)
 
@@ -230,8 +216,7 @@ _Fagus_ species
 **Habitat and Distribution:** This tree is found in the temperate zone. It grows wild in the eastern United States, Europe, Asia, and North Africa. It is found in moist areas, mainly in the forests. This tree is common throughout southeastern Europe and across temperate Asia. Beech relatives are also found in Chile, New Guinea, and New Zealand.
 
 **Edible Parts:** The mature beechnuts readily fall out of the husklike seedpods. You can eat these dark-brown, triangular nuts by breaking the thin shell with your fingernail and removing the white, sweet kernel inside. Beechnuts are one of the most delicious of all wild nuts. They are a most useful survival food because of the kernel's high oil content. You can also use the beechnuts as a coffee substitute. Roast them so that the kernel becomes golden brown and quite hard. Then pulverize the kernel and, after boiling or steeping in hot water, you have a passable coffee substitute.
-
-* * *
+** *
 
 ![](image10.jpg)
 
@@ -247,8 +232,7 @@ _Antidesma bunius_
 > **CAUTION**
 >
 > Eaten in large quantities, the fruit may have a laxative effect.
-
-* * *
+** *
 
 ![](image11.jpg)
 
@@ -262,8 +246,7 @@ _Rubus_ species
 **Edible Parts:** The fruits and peeled young shoots are edible. Flavor varies greatly.
 
 **Other Uses:** Use the leaves to make tea. To treat diarrhea, drink a tea made by brewing the dried root bark of the blackberry bush.
-
-* * *
+** *
 
 ![](image12.jpg)
 
@@ -275,8 +258,7 @@ _Vaccinium_ and _Gaylussacia_ species
 **Habitat and Distribution:** These plants prefer open, sunny areas. They are found throughout much of the north temperate regions and at higher elevations in Central America.
 
 **Edible Parts:** Their fruits are edible raw.
-
-* * *
+** *
 
 ![](image13.jpg)
 
@@ -290,8 +272,7 @@ _Artocarpus incisa_
 **Edible Parts:** The fruit pulp is edible raw. The fruit can be sliced, dried, and ground into flour for later use. The seeds are edible cooked.
 
 **Other Uses:** The thick sap can serve as glue and caulking material. You can also use it as birdlime (to entrap small birds by smearing the sap on twigs where they usually perch).
-
-* * *
+** *
 
 ![](image14.jpg)
 
@@ -309,8 +290,7 @@ _Arctium lappa_
 > Do not confuse burdock with rhubarb that has poisonous leaves.
 
 **Other Uses:** A liquid made from the roots will help to produce sweating and increase urination. Dry the root, simmer it in water, strain the liquid, and then drink the strained liquid. Use the fiber from the dried stalk to weave cordage.
-
-* * *
+** *
 
 ![](image15.jpg)
 
@@ -328,8 +308,7 @@ _Corypha elata_
 > The seed covering may cause dermatitis in some individuals.
 
 **Other Uses:** You can use the leaves as weaving material.
-
-* * *
+** *
 
 ![](image16.jpg)
 
@@ -341,8 +320,7 @@ _Canna indica_
 **Habitat and Distribution:** As a wild plant, the canna lily is found in all tropical areas, especially in moist places along streams, springs, ditches, and the margins of woods. It may also be found in wet temperate, mountainous regions. It is easy to recognize because it is commonly cultivated in flower gardens in the United States.
 
 **Edible Parts:** The large and much-branched rootstocks are full of edible starch. The younger parts may be finely chopped and then boiled or pulverized into a meal. Mix in the young shoots of palm cabbage for flavoring.
-
-* * *
+** *
 
 ![](image17.jpg)
 
@@ -356,8 +334,7 @@ _Ceratonia siliqua_
 **Edible Parts:** The young, tender pods are edible raw or boiled. You can pulverize the seeds in mature pods and cook as porridge.
 
 ![](image174.jpg)
-
-* * *
+** *
 
 ![](image18.jpg)
 
@@ -373,8 +350,7 @@ _Anacardium occidentale_
 > **CAUTION**
 >
 > The green hull surrounding the nut contains a resinous irritant poison that will blister the lips and tongue like poison ivy. Heat destroys this poison when the nuts are roasted.
-
-* * *
+** *
 
 ![](image19.jpg)
 
@@ -388,8 +364,7 @@ _Typha latifolia_
 **Edible Parts:** The young tender shoots are edible raw or cooked. The rhizome is often very tough but is a rich source of starch. Pound the rhizome to remove the starch and use as a flour. The pollen is also an exceptional source of starch. When the cattail is immature and still green, you can boil the female portion and eat it like corn on the cob.
 
 **Other Uses:** The dried leaves are an excellent source of weaving material you can use to make floats and rafts. The cottony seeds make good pillow stuffing and insulation. The fluff makes excellent tinder. Dried cattails are effective insect repellents when burned.
-
-* * *
+** *
 
 ![](image20.jpg)
 
@@ -403,8 +378,7 @@ _Cereus_ species
 **Edible Parts:** The fruits are edible, but some may have a laxative effect.
 
 **Other Uses:** The pulp of the cactus is a good source of water. Break open the stem and scoop out the pulp.
-
-* * *
+** *
 
 ![](image21.jpg)
 
@@ -417,8 +391,7 @@ _Castanea sativa_
 
 **Edible Parts:** Chestnuts are highly useful as survival food. Ripe nuts are usually picked in autumn, although unripe nuts picked while green may also be used for food. Perhaps the easiest way to prepare them is to roast the ripe nuts in embers. Cooked this way, they are quite tasty, and you can eat large quantities. Another way is to boil the kernels after removing the outer shell. After boiling the nuts until fairly soft, you can mash them like potatoes.
 
-
-* * *
+** *
 
 ![](image22.jpg)
 
@@ -430,8 +403,7 @@ _Cichorium intybus_
 **Habitat and Distribution:** Look for chicory in old fields, waste areas, weedy lots, and along roads. It is a native of Europe and Asia, but is also found in Africa and most of North America, where it grows as a weed.
 
 **Edible Parts:** All parts are edible. Eat the young leaves as a salad or boil to eat as a vegetable. Cook the roots as a vegetable. For use as a coffee substitute, roast the roots until they are dark brown and then pulverize them.
-
-* * *
+** *
 
 ![](image23.jpg)
 
@@ -443,8 +415,7 @@ _Cyperus esculentus_
 **Habitat and Distribution:** Chufa grows in moist sandy areas throughout the world. It is often an abundant weed in cultivated fields.
 
 **Edible Parts:** The tubers are edible raw, boiled, or baked. You can also grind them and use them as a coffee substitute.
-
-* * *
+** *
 
 ![](image24.jpg)
 
@@ -458,8 +429,7 @@ _Cocos nucifera_
 **Edible Parts:** The nut is a valuable source of food. The milk of the young coconut is rich in sugar and vitamins and is an excellent source of liquid. The nut meat is also nutritious but is rich in oil. To preserve the meat, spread it in the sun until it is completely dry.
 
 **Other Uses:** Use coconut oil to cook and to protect metal objects from corrosion. Also, use the oil to treat saltwater sores, sunburn, and dry skin. Use the oil in improvised torches. Use the tree trunk as building material and the leaves as thatch. Hollow out the large stump for use as a food container. The coconut husks are good flotation devices and the husk's fibers are used to weave ropes and other items. Use the gauzelike fibers at the leaf bases as strainers or use them to weave a bug net or to make a pad to use on wounds. The husk makes a good abrasive. Dried husk fiber is an excellent tinder. A smoldering husk helps to repel mosquitoes. Smoke caused by dripping coconut oil in a fire also repels mosquitoes. To render coconut oil, put the coconut meat in the sun, heat it over a slow fire, or boil it in a pot of water. Coconuts washed out to sea are a good source of fresh liquid for the sea survivor.
-
-* * *
+** *
 
 ![](image175.jpg)
 
@@ -473,8 +443,7 @@ _Ziziphus jujuba_
 **Edible Parts:** The pulp, crushed in water, makes a refreshing beverage. If time permits, you can dry the ripe fruit in the sun like dates. Its fruit is high in vitamins A and C.
 
 ![](image176.jpg)
-
-* * *
+** *
 
 ![](image25.jpg)
 
@@ -488,8 +457,7 @@ _Vaccinium macrocarpon_
 **Edible Parts:** The berries are very tart when eaten raw. Cook in a small amount of water and add sugar, if available, to make a jelly.
 
 **Other Uses:** Cranberries may act as a diuretic. They are useful for treating urinary tract infections.
-
-* * *
+** *
 
 ![](image177.jpg)
 
@@ -501,8 +469,7 @@ _Empetrum nigrum_
 **Habitat and Distribution:** Look for this plant in tundra throughout arctic regions of North America and Eurasia.
 
 **Edible Parts:** The fruits are edible fresh or can be dried for later use.
-
-* * *
+** *
 
 ![](image178.jpg)
 
@@ -516,8 +483,7 @@ _Cavanillesia platanifolia_
 **Edible Parts:** To get water from this tree, cut a piece of the root and clean the dirt and bark off one end, keeping the root horizontal. Put the clean end to your mouth or canteen and raise the other. The water from this tree tastes like potato water.
 
 **Other Uses:** Use young saplings and the branches' inner bark to make rope.
-
-* * *
+** *
 
 ![](image179.jpg)
 
@@ -531,8 +497,7 @@ _Taraxacum officinale_
 **Edible Parts:** All parts are edible. Eat the leaves raw or cooked. Boil the roots as a vegetable. Roots roasted and ground are a good coffee substitute. Dandelions are high in vitamins A and C and in calcium.
 
 **Other Uses:** Use the white juice in the flower stems as glue.
-
-* * *
+** *
 
 ![](image26.jpg)
 
@@ -546,8 +511,7 @@ _Phoenix dactylifera_
 **Edible Parts:** Its fruit is edible fresh but is very bitter if eaten before it is ripe. You can dry the fruits in the sun and preserve them for a long time.
 
 **Other Uses:** The trunks provide valuable building material in desert regions where few other treelike plants are found. The leaves are durable, and you can use them for thatching and as weaving material. The base of the leaves resembles coarse cloth that you can use for scrubbing and cleaning.
-
-* * *
+** *
 
 ![](image27.jpg)
 
@@ -563,8 +527,7 @@ _Hemerocallis fulva_
 > **CAUTION**
 >
 > Eating excessive amounts of raw flowers may cause diarrhea.
-
-* * *
+** *
 
 ![](image28.jpg)
 
@@ -576,8 +539,7 @@ _Duchesnea indica_
 **Habitat and Distribution:** It is native to southern Asia but is a common weed in warmer temperate regions. Look for it in lawns, gardens, and along roads.
 
 **Edible Parts:** Its fruit is edible. Eat it fresh.
-
-* * *
+** *
 
 ![](image29.jpg)
 
@@ -593,8 +555,7 @@ _Sambucus canadensis_
 > **CAUTION**
 >
 > All other parts of the plant are poisonous and dangerous if eaten.
-
-* * *
+** *
 
 ![](image180.jpg)
 
@@ -606,8 +567,7 @@ _Epilobium angustifolium_
 **Habitat and Distribution:** Tall fireweed is found in open woods, on hillsides, on stream banks, and near seashores in arctic regions. It is especially abundant in burned-over areas. Dwarf fireweed is found along streams, sandbars, and lakeshores and on alpine and arctic slopes.
 
 **Edible Parts:** The leaves, stems, and flowers are edible in the spring but become tough in summer. You can split open the stems of old plants and eat the pith raw.
-
-* * *
+** *
 
 ![](image30.jpg)
 
@@ -619,8 +579,7 @@ _Caryota urens_
 **Habitat and Distribution:** The fishtail palm is native to the tropics of India, Assam, and Myanmar. Several related species also exist in Southeast Asia and the Philippines. These palms are found in open hill country and jungle areas.
 
 **Edible Parts:** The chief food in this palm is the starch stored in large quantities in its trunk. The juice from the fishtail palm is very nourishing and you have to drink it shortly after getting it from the palm flower shoot. Boil the juice down to get a rich sugar syrup. Use the same method as for the sugar palm to get the juice. The palm cabbage may be eaten raw or cooked.
-
-* * *
+** *
 
 ![](image31.jpg)
 
@@ -632,8 +591,7 @@ _Setaria_ species
 **Habitat and Distribution:** Look for foxtail grasses in open, sunny areas, along roads, and at the margins of fields. Some species occur in wet, marshy areas. Species of _Setaria_ are found throughout the United States, Europe, western Asia, and tropical Africa. In some parts of the world, foxtail grasses are grown as a food crop.
 
 **Edible Parts:** The grains are edible raw but are very hard and sometimes bitter. Boiling removes some of the bitterness and makes them easier to eat.
-
-* * *
+** *
 
 ![](image32.jpg)
 
@@ -645,8 +603,7 @@ _Psophocarpus tetragonolobus_
 **Habitat and Distribution:** This plant grows in tropical Africa, Asia, the East Indies, the Philippines, and Taiwan. This member of the bean (legume) family serves to illustrate a kind of edible bean common in the tropics of the Old World. Wild edible beans of this sort are most frequently found in clearings and around abandoned garden sites. They are more rare in forested areas.
 
 **Edible Parts:** You can eat the young pods like string beans. The mature seeds are a valuable source of protein after parching or roasting them over hot coals. You can germinate the seeds (as you can many kinds of beans) in damp moss and eat the resultant sprouts. The thickened roots are edible raw. They are slightly sweet, with the firmness of an apple. You can also eat the young leaves as a vegetable, raw or steamed.
-
-* * *
+** *
 
 ![](image181.jpg)
 
@@ -658,8 +615,7 @@ _Celtis_ species
 **Habitat and Distribution:** This plant is widespread in the United States, especially in and near ponds.
 
 **Edible Parts:** Its berries are edible when they are ripe and fall from the tree.
-
-* * *
+** *
 
 ![](image182.jpg)
 
@@ -673,8 +629,7 @@ _Corylus_ species
 **Edible Parts:** Hazelnuts ripen in the autumn, when you can crack them open and eat the kernel. The dried nut is extremely delicious. The nut's high oil content makes it a good survival food. When they are unripe, you can crack them open and eat the fresh kernel.
 
 ![](image183.jpg)
-
-* * *
+** *
 
 ![](image33.jpg)
 
@@ -688,8 +643,7 @@ _Moringa pterygosperma_
 **Edible Parts:** The leaves are edible raw or cooked, depending on their hardness. Cut the young seedpods into short lengths and cook them like string beans or fry them. You can get oil for frying by boiling the young fruits of palms and skimming the oil off the surface of the water. You can eat the flowers as part of a salad. You can chew fresh, young seedpods to eat the pulpy and soft seeds. The roots may be ground as a substitute for seasoning similar to horseradish.
 
 ![](image184.jpg)
-
-* * *
+** *
 
 ![](image185.jpg)
 
@@ -701,8 +655,7 @@ _Cetraria islandica_
 **Habitat and Distribution:** Look for it in open areas. It is found only in the arctic.
 
 **Edible Parts:** All parts of the Iceland moss are edible. During the winter or dry season, it is dry and crunchy but softens when soaked. Boil the moss to remove the bitterness. After boiling, eat by itself or add to milk or grains as a thickening agent. Dried plants store well.
-
-* * *
+** *
 
 ![](image186.jpg)
 
@@ -714,8 +667,7 @@ _Claytonia_ species
 **Habitat and Distribution:** Some species are found in rich forests, where they are conspicuous before the leaves develop. Western species are found throughout most of the northern United States and in Canada.
 
 **Edible Parts:** The tubers are edible but you should boil them before eating.
-
-* * *
+** *
 
 ![](image187.jpg)
 
@@ -731,8 +683,7 @@ _Juniperus_ species
 > **CAUTION**
 >
 > Many plants may be called cedars but are not related to junipers and may be harmful. Always look for the berrylike structures, needle leaves, and resinous, fragrant sap to be sure the plant you have is a juniper.
-
-* * *
+** *
 
 ![](image34.jpg)
 
@@ -744,8 +695,7 @@ _Nelumbo_ species
 **Habitat and Distribution:** The yellow-flowered lotus is native to North America. The pink-flowered species, which is widespread in the Orient, is planted in many other areas of the world. Lotuses are found in quiet freshwater.
 
 **Edible Parts:** All parts of the plant are edible raw or cooked. The underwater parts contain large quantities of starch. Dig the fleshy portions from the mud and bake or boil them. Boil the young leaves and eat them as a vegetable. The seeds have a pleasant flavor and are nutritious. Eat them raw, or parch and grind them into flour.
-
-* * *
+** *
 
 ![](image188.jpg)
 
@@ -761,8 +711,7 @@ _Xanthosoma caracu_
 > **WARNING**
 >
 > Always cook before eating.
-
-* * *
+** *
 
 ![](image189.jpg)
 
@@ -780,8 +729,7 @@ _Mangifera indica_
 > If you are sensitive to poison ivy, avoid eating mangoes, as they cause a severe reaction in sensitive individuals.
 
 ![](image190.jpg)
-
-* * *
+** *
 
 ![](image191.jpg)
 
@@ -799,8 +747,7 @@ _Manihot utillissima_
 > For safety, always cook the roots of either type.
 
 ![](image192.jpg)
-
-* * *
+** *
 
 ![](image35.jpg)
 
@@ -816,8 +763,7 @@ _Caltha palustris_
 > **CAUTION**
 >
 > As with all water plants, do not eat this plant raw. Raw water plants may carry dangerous organisms that are removed only by cooking.
-
-* * *
+** *
 
 ![](image36.jpg)
 
@@ -833,8 +779,7 @@ _Morus_ species
 **Other Uses:** You can shred the inner bark of the tree and use it to make twine or cord.
 
 ![](image193.jpg)
-
-* * *
+** *
 
 ![](image37.jpg)
 
@@ -848,8 +793,7 @@ _Urtica_ and _Laportea_ species
 **Edible Parts:** Young shoots and leaves are edible. Boiling the plant for 10 to 15 minutes destroys the stinging element of the bristles. This plant is very nutritious.
 
 **Other Uses:** Mature stems have a fibrous layer that you can divide into individual fibers and use to weave string or twine.
-
-* * *
+** *
 
 ![](image38.jpg)
 
@@ -865,8 +809,7 @@ Nipa fruticans
 **Other Uses:** The leaves are excellent as thatch and coarse weaving material.
 
 ![](image194.jpg)
-
-* * *
+** *
 
 ![](image39.jpg)
 
@@ -886,8 +829,7 @@ _Quercus_ species
 **Oak (Continued)**
 
 **Other Uses:** Oak wood is excellent for building or burning. Small oaks can be split and cut into long thin strips (3 to 6 millimeters [1/8 to 1/4 inch] thick and 1.2 centimeters [1/3 inch] wide) used to weave mats, baskets, or frameworks for packs, sleds, furniture, etc. Oak bark soaked in water produces a tanning solution used to preserve leather.
-
-* * *
+** *
 
 ![](image40.jpg)
 
@@ -899,8 +841,7 @@ _Atriplex_ species
 **Habitat and Distribution:** Orach species are entirety restricted to salty soils. They are found along North America's coasts and on the shores of alkaline lakes inland. They are also found along seashores from the Mediterranean countries to inland areas in North Africa and eastward to Turkey and central Siberia.
 
 **Edible Parts:** The entire plant is edible raw or boiled.
-
-* * *
+** *
 
 ![](image41.jpg)
 
@@ -912,8 +853,7 @@ _Sabal palmetto_
 **Habitat and Distribution:** The palmetto palm is found throughout the coastal regions of the southeastern United States.
 
 **Edible Parts:** The fruits are edible raw. The hard seeds may be ground into flour. The heart of the palm is a nutritious food source at any time. Cut off the top of the tree to obtain the palm heart.
-
-* * *
+** *
 
 ![](image195.jpg)
 
@@ -931,8 +871,7 @@ _Carica papaya_
 > **CAUTION**
 >
 > Be careful not to get the milky sap from the unripe fruit into your eyes. It will cause intense pain and temporarysometimes even permanentblindness.
-
-* * *
+** *
 
 ![](image42.jpg)
 
@@ -948,8 +887,7 @@ _Diospyros virginiana_ and other species
 > **CAUTION**
 >
 > Some persons are unable to digest persimmon pulp. Unripe persimmons are highly astringent and inedible.
-
-* * *
+** *
 
 ![](image196.jpg)
 
@@ -961,8 +899,7 @@ _Mammilaria_ species
 **Habitat and Distribution:** These cacti are found throughout much of the desert regions of the western United States and parts of Central America.
 
 **Edible Parts:** They are a good source of water in the desert.
-
-* * *
+** *
 
 ![](image43.jpg)
 
@@ -976,8 +913,7 @@ _Pinus_ species
 **Edible Parts:** The seeds of all species are edible. You can collect the young male cones, which grow only in the spring, as a survival food. Boil or bake the young cones. The bark of young twigs is edible. Peel off the bark of thin twigs. You can chew the juicy inner bark; it is rich in sugar and vitamins. Eat the seeds raw or cooked. Green pine needle tea is high in vitamin C.
 
 **Other Uses:** Use the resin to waterproof articles. Also, use it as glue. Collect the resin from the tree. If there is not enough resin on the tree, cut a notch in the bark so more sap will seep out. Put the resin in a container and heat it. The hot resin is your glue. Use it as is or add a small amount of ash dust to strengthen it. Use it immediately. You can use hardened pine resin as an emergency dental filling.
-
-* * *
+** *
 
 ![](image44.jpg)
 
@@ -991,8 +927,7 @@ _Plantago_ species
 **Edible Parts:** The young tender leaves are edible raw. Older leaves should be cooked. Seeds are edible raw or roasted.
 
 **Other Uses:** To relieve pain from wounds and sores, wash and soak the entire plant for a short time and apply it to the injured area. To treat diarrhea, drink tea made from 28 grams (1 ounce) of the plant leaves boiled in 0.5 liter of water. The seeds and seed husks act as laxatives.
-
-* * *
+** *
 
 ![](image45.jpg)
 
@@ -1010,8 +945,7 @@ _Phytolacca americana_
 > All parts of this plant are poisonous if eaten raw. Never eat the underground portions of the plant as these contain the highest concentrations of the poisons. Do not eat any plant over 25 centimeters (10 inches) tall or when red is showing in the plant.
 
 **Other Uses:** Use the juice of fresh berries as a dye.
-
-* * *
+** *
 
 ![](image46.jpg)
 
@@ -1029,8 +963,7 @@ _Opuntia_ species
 > Avoid any plant that resembles the prickly pear cactus and has milky sap.
 
 **Other Uses:** The pad is a good source of water. Peel it carefully to remove all sharp hairs before putting it in your mouth. You can also use the pads to promote healing. Split them and apply the pulp to wounds.
-
-* * *
+** *
 
 ![](image47.jpg)
 
@@ -1042,8 +975,7 @@ _Portulaca oleracea_
 **Habitat and Distribution:** It grows in full sun in cultivated fields, field margins, and other weedy areas throughout the world.
 
 **Edible Parts:** All parts are edible. Wash and boil the plants for a tasty vegetable or eat them raw. Use the seeds as a flour substitute or eat them raw.
-
-* * *
+** *
 
 ![](image198.jpg)
 
@@ -1059,8 +991,7 @@ _Calamus_ species
 **Other Uses:** You can obtain large amounts of potable water by cutting the ends of the long stems (see [Chapter 6](06)). The stems can be used to make baskets and fish traps.
 
 ![](image199.jpg)
-
-* * *
+** *
 
 ![](image48.jpg)
 
@@ -1072,8 +1003,7 @@ _Phragmites australis_
 **Habitat and Distribution:** Look for reed in any open, wet area, especially one that has been disturbed through dredging. Reed is found throughout the temperate regions of both the Northern and Southern Hemispheres.
 
 **Edible Parts:** All parts of the plant are edible raw or cooked in any season. Harvest the stems as they emerge from the soil and boil them. You can also harvest them just before they produce flowers, then dry and beat them into flour. You can also dig up and boil the underground stems, but they are often tough. Seeds are edible raw or boiled, but they are rarely found.
-
-* * *
+** *
 
 ![](image200.jpg)
 
@@ -1088,8 +1018,7 @@ _Cladonia rangiferina_
 
 ![](image201.jpg)
 
-
-* * *
+** *
 
 ![](image49.jpg)
 
@@ -1105,8 +1034,7 @@ _Umbilicaria_ species
 > **CAUTION**
 >
 > There are some reports of poisoning from rock tripe, so apply the Universal Edibility Test.
-
-* * *
+** *
 
 ![](image202.jpg)
 
@@ -1120,8 +1048,7 @@ _Eugenia jambos_
 **Edible Parts:** The entire fruit is edible raw or cooked.
 
 ![](image203.jpg)
-
-* * *
+** *
 
 ![](image204.jpg)
 
@@ -1133,8 +1060,7 @@ _Metroxylon sagu_
 **Habitat and Distribution:** The sago palm is found in tropical rain forests. It flourishes in damp lowlands in the Malay Peninsula, New Guinea, Indonesia, the Philippines, and adjacent islands. It is found mainly in swamps and along streams, lakes, and rivers.
 
 **Edible Parts:** These palms, when available, are of great use to the survivor. One trunk, cut just before it flowers, will yield enough sago to feed a person for 1 year. Obtain sago starch from nonflowering palms. To extract the edible sage, cut away the bark lengthwise from one half of the trunk and pound the soft, whitish inner part (pith) as fine as possible. Knead the pith in water and strain it through a coarse cloth into a container. The fine, white sago will settle in the container. Once the sago settles, it is ready for use. Squeeze off the excess water and let it dry. Cook it as pancakes or oatmeal. Two kilograms of sago is the nutritional equivalent of 1.5 kilograms of rice. The upper part of the trunk's core does not yield sago, but you can roast it in lumps over a fire. You can also eat the young sago nuts and the growing shoots or palm cabbage.
-
-* * *
+** *
 
 ![](image50.jpg)
 
@@ -1148,8 +1074,7 @@ _Sassafras albidum_
 **Edible Parts:** The young twigs and leaves are edible fresh or dried. You can add dried young twigs and leaves to soups. Dig the underground portion, peel off the bark, and let it dry. Then boil it in water to prepare sassafras tea.
 
 **Other Uses:** Shred the tender twigs for use as a toothbrush.
-
-* * *
+** *
 
 ![](image205.jpg)
 
@@ -1161,8 +1086,7 @@ _Haloxylon ammondendron_
 **Habitat and Distribution:** The saxaul is found in desert and arid areas. It is found on the arid salt deserts of Central Asia, particularly in the Turkestan region and east of the Caspian Sea.
 
 **Edible Parts:** The thick bark acts as a water storage organ. You can get drinking water by pressing quantities of the bark. This plant is an important source of water in the arid regions in which it grows.
-
-* * *
+** *
 
 ![](image51.jpg)
 
@@ -1174,8 +1098,7 @@ _Pandanus_ species
 **Habitat and Distribution:** The screw pine is a tropical plant that grows in rain forests and semievergreen seasonal forests. It is found mainly along seashores, although certain kinds occur inland for some distance, from Madagascar to southern Asia and the islands of the southwestern Pacific. There are about 180 types.
 
 **Edible Parts:** Knock the ripe fruit to the ground to separate the fruit segments from the hard outer covering. Chew the inner fleshy part. Cook in an earth oven fruit that is not fully ripe. Before cooking, wrap the whole fruit in banana leaves, breadfruit leaves, or any other suitable thick, leathery leaves. After cooking for about 2 hours, you can chew fruit segments like ripe fruit. Green fruit is inedible.
-
-* * *
+** *
 
 ![](image206.jpg)
 
@@ -1187,8 +1110,7 @@ _Atriplex halimus_
 **Habitat and Distribution:** The sea orach is found in highly alkaline and salty areas along seashores from the Mediterranean countries to inland areas in North Africa and eastward to Turkey and central Siberia. Generally, it can be found in tropical scrub and thorn forests, steppes in temperate regions, and most desert scrub and waste areas.
 
 **Edible Parts:** Its leaves are edible. In the areas where it grows, it has the healthy reputation of being one of the few native plants that can sustain man in times of want.
-
-* * *
+** *
 
 ![](image52.jpg)
 
@@ -1204,8 +1126,7 @@ _Rumex acerosella_
 > **CAUTION**
 >
 > These plants contain oxalic acid that can be damaging if too many plants are eaten raw. Cooking seems to destroy the chemical.
-
-* * *
+** *
 
 ![](image207.jpg)
 
@@ -1219,8 +1140,7 @@ _Sorghum_ species
 **Edible Parts:** The grains are edible at any stage of development. When young, the grains are milky and edible raw. Boil the older grains. Sorghum is a nutritious food.
 
 **Other Uses:** Use the stems of tall sorghum as building materials.
-
-* * *
+** *
 
 ![](image53.jpg)
 
@@ -1232,8 +1152,7 @@ _Nuphar_ species
 **Habitat and Distribution:** These plants grow throughout most of North America. They are found in quiet, shallow (never deeper than 1.8 meters [6 feet]) freshwater.
 
 **Edible Parts:** All parts of the plant are edible. The fruits contain several dark brown seeds you can parch or roast and then grind into flour. The large rootstock contains starch. Dig it out of the mud, peel off the outside, and boil the flesh. Sometimes the rootstock contains large quantities of a very bitter compound. Boiling the plant in several changes of water may remove the bitterness.
-
-* * *
+** *
 
 ![](image54.jpg)
 
@@ -1251,8 +1170,7 @@ _Sterculia foetida_
 > Avoid eating large quantities. The seeds may have a laxative effect.
 
 ![](image208.jpg)
-
-* * *
+** *
 
 ![](image55.jpg)
 
@@ -1268,8 +1186,7 @@ _Fragaria_ species
 > **WARNING**
 >
 > Eat only white-flowering true strawberries. Other similar plants without white flowers can be poisonous.
-
-* * *
+** *
 
 ![](image56.jpg)
 
@@ -1281,8 +1198,7 @@ _Saccharum officinarum_
 **Habitat and Distribution:** Look for sugarcane in fields. It grows only in the tropics (throughout the world). Because it is a crop, it is often found in large numbers.
 
 **Edible Parts:** The stem is an excellent source of sugar and is very nutritious. Peel the outer portion off with your teeth and eat the sugarcane raw. You can also squeeze juice out of the sugarcane.
-
-* * *
+** *
 
 ![](image57.jpg)
 
@@ -1300,8 +1216,7 @@ _Arenga pinnata_
 > **CAUTION**
 >
 > The flesh covering the seeds may cause dermatitis.
-
-* * *
+** *
 
 ![](image209.jpg)
 
@@ -1319,8 +1234,7 @@ _Annona squamosa_
 > **CAUTION**
 >
 > The ground seeds are extremely dangerous to the eyes.
-
-* * *
+** *
 
 ![](image58.jpg)
 
@@ -1332,8 +1246,7 @@ _Tamarindus indica_
 **Habitat and Distribution:** The tamarind grows in the drier parts of Africa, Asia, and the Philippines. Although it is thought to be a native of Africa, it has been cultivated in India for so long that it looks like a native tree. It is also found in the American tropics, the West Indies, Central America, and tropical South America.
 
 **Edible Parts:** The pulp surrounding the seeds is rich in vitamin C and is an important survival food. You can make a pleasantly acid drink by mixing the pulp with water and sugar or honey and letting the mixture mature for several days. Suck the pulp to relieve thirst. Cook the young, unripe fruits or seedpods with meat. Use the young leaves in soup. You must cook the seeds. Roast them above a fire or in ashes. Another way is to remove the seed coat and soak the seeds in salted water and grated coconut for 24 hours, then cook them. You can peel the tamarind bark and chew it.
-
-* * *
+** *
 
 ![](image210.jpg)
 
@@ -1349,8 +1262,7 @@ _Colocasia_ and _Alocasia_ species
 > **CAUTION**
 >
 > If eaten raw, these plants will cause a serious inflammation of the mouth and throat.
-
-* * *
+** *
 
 ![](image59.jpg)
 
@@ -1368,8 +1280,7 @@ _Cirsium_ species
 > Some thistle species are poisonous.
 
 **Other Uses:** Twist the tough fibers of the stems to make a strong twine.
-
-* * *
+** *
 
 ![](image60.jpg)
 
@@ -1383,8 +1294,7 @@ _Cordyline terminalis_
 **Edible Parts:** The roots and very tender young leaves are good survival foods. Boil or bake the short, stout roots found at the base of the plant. They are a valuable source of starch. Boil the very young leaves to eat. You can use the leaves to wrap other food to cook over coals or to steam.
 
 **Other Uses:** Use the leaves to cover shelters or to make a rain cloak. Cut the leaves into liners for shoes; this works especially well if you have a blister. Fashion temporary sandals from the leaves. The terminal leaf, if not completely unfurled, can be used as a sterile bandage. Cut the leaves into strips, then braid the strips into rope.
-
-* * *
+** *
 
 ![](image211.jpg)
 
@@ -1396,8 +1306,7 @@ Various genera
 **Habitat and Distribution:** Tree ferns are found in wet, tropical forests.
 
 **Edible Parts:** The young leaves and the soft inner portion of the trunk are edible. Boil the young leaves and eat as greens. Eat the inner portion of the trunk raw or bake it.
-
-* * *
+** *
 
 ![](image61.jpg)
 
@@ -1409,8 +1318,7 @@ _Terminalia catappa_
 **Habitat and Distribution:** This tree is usually found growing near the ocean. It is a common and often abundant tree in the Caribbean and Central and South America. It is also found in the tropical rain forests of southeastern Asia, northern Australia, and Polynesia.
 
 **Edible Parts:** The seed is a good source of food. Remove the fleshy, green covering and eat the seed raw or cooked.
-
-* * *
+** *
 
 ![](image1.jpg)
 
@@ -1424,8 +1332,7 @@ _Juglans_ species
 **Edible Parts:** The nut kernel ripens in the autumn. You get the walnut meat by cracking the shell. Walnut meats are highly nutritious because of their protein and oil content.
 
 **Other Uses:** You can boil walnuts and use the juice as an antifungal agent. The husks of "green" walnuts produce a dark brown dye for clothing or camouflage. Crush the husks of "green" black walnuts and sprinkle them into sluggish water or ponds for use as fish poison.
-
-* * *
+** *
 
 ![](image212.jpg)
 
@@ -1437,8 +1344,7 @@ _Trapa natans_
 **Habitat and Distribution:** The water chestnut is a freshwater plant only. It is a native of Asia but has spread to many parts of the world in both temperate and tropical areas.
 
 **Edible Parts:** The fruits are edible raw and cooked. The seeds are also a source of food.
-
-* * *
+** *
 
 ![](image213.jpg)
 
@@ -1454,8 +1360,7 @@ _Ceratopteris_ species
 > **CAUTION**
 >
 > This plant has carcinogenic properties and should only be used as a last resort.
-
-* * *
+** *
 
 ![](image214.jpg)
 
@@ -1469,8 +1374,7 @@ _Nymphaea odorata_
 **Edible Parts:** The flowers, seeds, and rhizomes are edible raw or cooked. To prepare rhizomes for eating, peel off the corky rind. Eat raw, or slice thinly, allow to dry, and then grind into flour. Dry, parch, and grind the seeds into flour.
 
 **Other Uses:** Use the liquid resulting from boiling the thickened root in water as a medicine for diarrhea and as a gargle for sore throats.
-
-* * *
+** *
 
 ![](image215.jpg)
 
@@ -1486,8 +1390,7 @@ _Alisma plantago-aquatica_
 > **CAUTION**
 >
 > To avoid parasites, always cook aquatic plants.
-
-* * *
+** *
 
 ![](image216.jpg)
 
@@ -1499,8 +1402,7 @@ _Capparis aphylla_
 **Habitat and Distribution:** These shrubs form large stands in scrub and thorn forests and in desert scrub and waste. They are common throughout North Africa and the Middle East.
 
 **Edible Parts:** The fruit and the buds of young shoots are edible raw.
-
-* * *
+** *
 
 ![](image217.jpg)
 
@@ -1516,8 +1418,7 @@ _Malus_ species
 > **CAUTION**
 >
 >Apple seeds contain cyanide compounds. Do not eat.
-
-* * *
+** *
 
 ![](image2.jpg)
 
@@ -1529,8 +1430,7 @@ _Citrullus colocynthis_
 **Habitat and Distribution:** This creeping plant can be found in any climatic zone, generally in desert scrub and waste areas. It grows abundantly in the Sahara, in many Arab countries, on the southeastern coast of India, and on some of the islands of the Aegean Sea. The wild desert gourd will grow in the hottest localities.
 
 **Edible Parts:** The seeds inside the ripe gourd are edible after they are completely separated from the very bitter pulp. Roast or boil the seedstheir kernels are rich in oil. The flowers are edible. The succulent stem tips can be chewed to obtain water.
-
-* * *
+** *
 
 ![](image3.jpg)
 
@@ -1543,8 +1443,7 @@ _Rumex crispus_ and _Rumex acetosella_
 
 **Edible Parts:** Because of the tender nature of their foliage, sorrel and dock are useful plants, especially in desert areas. You can eat their succulent leaves fresh or slightly cooked. To take away the strong taste, change the water once or twice during cookinga useful hint in preparing many kinds of wild greens.
 
-
-* * *
+** *
 
 ![](image4.jpg)
 
@@ -1558,8 +1457,7 @@ _Ficus_ species
 **Edible Parts:** The fruits are edible raw or cooked. Some figs have little flavor.
 
 ![](image218.jpg)
-
-* * *
+** *
 
 ![](image5.jpg)
 
@@ -1572,8 +1470,7 @@ _Luffa cylindrica_
 
 **Edible Parts:** You can boil the young green (half-ripe) fruit and eat them as a vegetable. Adding coconut milk will improve the flavor. After ripening, the luffa sponge develops an inedible spongelike texture in the interior of the fruit. You can also eat the tender shoots, flowers, and young leaves after cooking them. Roast the mature seeds a little and eat them like peanuts.
 
-
-* * *
+** *
 
 ![](image6.jpg)
 
@@ -1591,8 +1488,7 @@ _Vitis_ species
 > **CAUTION**
 >
 > To avoid poisoning, do not eat grapelike fruits with only a single seed (moonseed).
-
-* * *
+** *
 
 ![](image7.jpg)
 
@@ -1611,8 +1507,7 @@ _Allium_ species
 
 
 **Other Uses:** Eating large quantities of onions will give your body an odor that will help to repel insects. Garlic juice works as an antibiotic on wounds.
-
-* * *
+** *
 
 ![](image8.jpg)
 
@@ -1624,8 +1519,7 @@ _Pistacia_ species
 **Habitat and Distribution:** About seven kinds of wild pistachio nuts are found in desert or semidesert areas surrounding the Mediterranean Sea to Turkey and Afghanistan. The pistachio is generally found in evergreen scrub forests or scrub and thorn forests.
 
 **Edible Parts:** You can eat the oil nut kernels after parching them over coals.
-
-* * *
+** *
 
 ![](image9.jpg)
 
@@ -1637,8 +1531,7 @@ _Zizania aquatica_
 **Habitat and Distribution:** Wild rice grows only in very wet areas in tropical and temperate regions.
 
 **Edible Parts:** During the spring and summer, the central portion of the lower stems and root shoots are edible. Remove the tough covering before eating. During the late summer and fall, collect the straw-covered husks. Dry and parch the husks, break them, and remove the rice. Boil or roast the rice and then beat it into flour.
-
-* * *
+** *
 
 ![](image219.jpg)
 
@@ -1656,8 +1549,7 @@ _Rosa_ species
 > Eat only the outer portion of the fruit as the seeds of some species are quite prickly and can cause internal distress.
 
 
-
-* * *
+** *
 
 ![](image10.jpg)
 
@@ -1673,8 +1565,7 @@ _Oxalis_ species
 > **CAUTION**
 >
 > Eat only small amounts of this plant as it contains a fairly high concentration of oxalic acid that can be harmful.
-
-* * *
+** *
 
 ![](image11.jpg)
 
@@ -1688,8 +1579,7 @@ _Dioscorea_ species
 **Edible Parts:** Boil the rootstock and eat it as a vegetable.
 
 ![](image220.jpg)
-
-* * *
+** *
 
 ![](image221.jpg)
 

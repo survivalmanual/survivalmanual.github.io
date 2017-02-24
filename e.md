@@ -24,18 +24,12 @@ Snakes are widely distributed. They are found in all tropical, subtropical, and 
 Although venomous snakes use their venom to secure food, they also use it for self-defense. Human accidents occur when you don't see or hear the snake, when you step on them, or when you walk too close to them.
 
 Follow these simple rules to reduce the chance of accidental snakebite:
-
-*   Don't sleep next to brush, tall grass, large boulders, or trees. They provide hiding places for snakes. Place your sleeping bag in a clearing. Use mosquito netting tucked well under the bag. This netting should provide a good barrier.
-
-*   Don't put your hands into dark places, such as rock crevices, heavy brush, or hollow logs, without first investigating.
-
-*   Don't step over a fallen tree. Step on the log and look to see if there is a snake resting on the other side.
-
-*   Don't walk through heavy brush or tall grass without looking down. Look where you are walking.
-
-*   Don't pick up any snake unless you are absolutely positive it is not venomous.
-
-*   Don't pick up freshly killed snakes without first severing the head. The nervous system may still be active and a dead snake can deliver a bite.
+*  Don't sleep next to brush, tall grass, large boulders, or trees. They provide hiding places for snakes. Place your sleeping bag in a clearing. Use mosquito netting tucked well under the bag. This netting should provide a good barrier.
+*  Don't put your hands into dark places, such as rock crevices, heavy brush, or hollow logs, without first investigating.
+*  Don't step over a fallen tree. Step on the log and look to see if there is a snake resting on the other side.
+*  Don't walk through heavy brush or tall grass without looking down. Look where you are walking.
+*  Don't pick up any snake unless you are absolutely positive it is not venomous.
+*  Don't pick up freshly killed snakes without first severing the head. The nervous system may still be active and a dead snake can deliver a bite.
 
 ### SNAKE GROUPS
 
@@ -64,10 +58,8 @@ No single characteristic distinguishes a venomous snake from a harmless one exce
 ### DESCRIPTIONS OF VENOMOUS SNAKES
 
 There are many different venomous snakes throughout the world. It is unlikely you will see many except in a zoo. This manual describes only a few venomous snakes. However, you should be able to spot a venomous snake if you—
-
-*   Learn about the two groups of snakes and the families in which they fall ([Figures E-2](#fige-2)).
-
-*   Examine the pictures and read the descriptions of snakes in this appendix.
+*  Learn about the two groups of snakes and the families in which they fall ([Figures E-2](#fige-2)).
+*  Examine the pictures and read the descriptions of snakes in this appendix.
 
 <a name="fige-2"></a>![Figure E-2\. Clinical Effects of Snakebites](fige-2.png)
 
@@ -155,12 +147,10 @@ The colubridae is the largest group of snakes worldwide. In this family there ar
 There is little to fear from lizards as long as you follow the same precautions as for avoiding snakebite. There are only two poisonous lizards: the Gila monster and the Mexican beaded lizard. The venom of both these lizards is neurotoxic. The two lizards are in the same family, and both are slow moving with a docile nature.
 
 The komodo dragon _(Varanus komodoensis),_ although not poisonous, can be dangerous due to its large size. These lizards can reach lengths of 3 meters (10 feet) and weigh over 115 kilograms (253 pounds). Do not try to capture this lizard.
-
-* * *
+** *
 
 ### VENOMOUS SNAKES OF THE AMERICAS
-
-* * *
+** *
 
 ![](image274.jpg)
 
@@ -180,8 +170,7 @@ The komodo dragon _(Varanus komodoensis),_ although not poisonous, can be danger
 <a name="fige-7"></a>![Figure E-7\. American Copperhead Habitat](image275.jpg)
 
 **Figure E-7\. American Copperhead Habitat**
-
-* * *
+** *
 
 **Bushmaster  
 **_Lachesis muta_
@@ -203,8 +192,7 @@ The komodo dragon _(Varanus komodoensis),_ although not poisonous, can be danger
 <a name="fige-8"></a>![Figure E-8\. Bushmaster Habitat](image278.jpg)
 
 **Figure E-8\. Bushmaster Habitat**
-
-* * *
+** *
 
 ![](image279.jpg)
 
@@ -224,8 +212,7 @@ The komodo dragon _(Varanus komodoensis),_ although not poisonous, can be danger
 <a name="fige-9"></a>![Figure E-9\. Coral Snake Habitat](image280.jpg)
 
 **Figure E-9\. Coral Snake Habitat**
-
-* * *
+** *
 
 ![](image281.jpg)
 
@@ -245,8 +232,7 @@ _Agkistrodon piscivorus_
 <a name="fige-10"></a>![Figure E-10\. Cottonmouth Habitat](image282.jpg)
 
 **Figure E-10\. Cottonmouth Habitat**
-
-* * *
+** *
 
 ![](image283.jpg)
 
@@ -266,8 +252,7 @@ _Crotalus adamanteus_
 <a name="fige-11"></a>![Figure E-11\. Eastern Diamondback Rattlesnake Habitat](image284.jpg)
 
 **Figure E-11\. Eastern Diamondback Rattlesnake Habitat**
-
-* * *
+** *
 
 ![](image285.jpg)
 
@@ -287,8 +272,7 @@ _Crotalus adamanteus_
 <a name="fige-12"></a>![Figure E-12\. Eyelash Pit Viper Habitat](image286.jpg)
 
 **Figure E-12\. Eyelash Pit Viper Habitat**
-
-* * *
+** *
 
 ![](image287.jpg)
 
@@ -310,8 +294,7 @@ There are several closely related species in this group. All are very dangerous 
 <a name="fige-13"></a>![Figure E-13\. Fer-de-lance Habitat](image288.jpg)
 
 **Figure E-13\. Fer-de-lance Habitat**
-
-* * *
+** *
 
 ![](image289.jpg)
 
@@ -331,8 +314,7 @@ _Bothrops nummifer_
 <a name="fige-14"></a>![Figure E-14\. Jumping Viper Habitat](image290.jpg)
 
 **Figure E-14\. Jumping Viper Habitat**
-
-* * *
+** *
 
 ![](image291.jpg)
 
@@ -352,8 +334,7 @@ _Crotalus scutulatus_
 <a name="fige-15"></a>![Figure E-15\. Mojave Rattlesnake Habitat](image292.jpg)
 
 **Figure E-15\. Mojave Rattlesnake Habitat**
-
-* * *
+** *
 
 ![](image293.jpg)
 
@@ -375,8 +356,7 @@ _Crotalus terrificus_
 <a name="fige-16"></a>![Figure E-16\. Tropical Rattlesnake Habitat](image295.jpg)
 
 **Figure E-16\. Tropical Rattlesnake Habitat**
-
-* * *
+** *
 
 ![](image296.jpg)
 
@@ -398,12 +378,10 @@ _Crotalus atrox_
 <a name="fige-17"></a>![Figure E-17\. Western Diamondback Rattlesnake Habitat](image298.jpg)
 
 **Figure E-17\. Western Diamondback Rattlesnake Habitat**
-
-* * *
+** *
 
 ### VENOMOUS SNAKES OF EUROPE
-
-* * *
+** *
 
 ![](image299.jpg)
 
@@ -423,8 +401,7 @@ _Vipera berus_
 <a name="fige-18"></a>![Figure E-18\. Common Adder Habitat](image300.jpg)
 
 **Figure E-18\. Common Adder Habitat**
-
-* * *
+** *
 
 ![](image301.jpg)
 
@@ -446,8 +423,7 @@ _Vipera ammodytes_
 <a name="fige-19"></a>![Figure E-19\. Long-Nosed Adder Habitat](image303.jpg)
 
 **Figure E-19\. Long-Nosed Adder Habitat**
-
-* * *
+** *
 
 ![](image304.jpg)  
 <font size="2">JOHN H. TASHJIAN/BERND VON SCHROEDER</font>
@@ -470,8 +446,7 @@ _Agkistrodon halys_
 <a name="fige-20"></a>![Figure E-20\. Pallas' Viper Habitat](image306.jpg)
 
 **Figure E-20\. Pallas' Viper Habitat**
-
-* * *
+** *
 
 ![](image307.jpg)  
 <font size="2">JOHN H. TASHJIAN/BÖTEJE FLARDH</font>
@@ -492,12 +467,10 @@ _Vipera ursinii_
 <a name="fige-21"></a>![Figure E-21\. Ursini's Viper Habitat](image308.jpg)
 
 **Figure E-21\. Ursini's Viper Habitat**
-
-* * *
+** *
 
 ### VENOMOUS SNAKES OF AFRICA AND ASIA
-
-* * *
+** *
 
 ![](image309.jpg)  
 <font size="2">JOHN H. TASHJIAN/CALIFORNIA ACADEMY OF SCIENCES</font>
@@ -518,8 +491,7 @@ _Dispholidus typus_
 <a name="fige-22"></a>![Figure E-22\. Boomslang Habitat](image310.jpg)
 
 **Figure E-22\. Boomslang Habitat**
-
-* * *
+** *
 
 ![](image311.jpg)
 
@@ -539,8 +511,7 @@ _Atheris squamiger_
 <a name="fige-23"></a>![Figure E-23\. Bush Viper Habitat](image312.jpg)
 
 **Figure E-23\. Bush Viper Habitat**
-
-* * *
+** *
 
 ![](image313.jpg)
 
@@ -560,8 +531,7 @@ _Naja naja_
 <a name="fige-24"></a>![Figure E-24\. Common Cobra or Asiatic Cobra Habitat](image314.jpg)
 
 **Figure E-24\. Common Cobra or Asiatic Cobra Habitat**
-
-* * *
+** *
 
 ![](image315.jpg)
 
@@ -581,8 +551,7 @@ _Naja haje_
 <a name="fige-25"></a>![Figure E-25\. Egyptian Cobra Habitat](image316.jpg)
 
 **Figure E-25\. Egyptian Cobra Habitat**
-
-* * *
+** *
 
 ![](image317.jpg)
 
@@ -602,8 +571,7 @@ _Bitis gabonica_
 <a name="fige-26"></a>![Figure E-26\. Gaboon Viper Habitat](image318.jpg)
 
 **Figure E-26\. Gaboon Viper Habitat**
-
-* * *
+** *
 
 ![](image319.jpg)
 
@@ -623,8 +591,7 @@ _Dendraspis angusticeps_
 <a name="fige-27"></a>![Figure E-27\. Green Mamba Habitat](image320.jpg)
 
 **Figure E-27\. Green Mamba Habitat**
-
-* * *
+** *
 
 ![](image321.jpg)
 
@@ -644,8 +611,7 @@ _Trimeresurus gramineus_
 <a name="fige-28"></a>![Figure E-28\. Green Tree Pit Viper Habitat](image322.jpg)
 
 **Figure E-28\. Green Tree Pit Viper Habitat**
-
-* * *
+** *
 
 ![](image323.jpg)
 
@@ -665,8 +631,7 @@ _Trimeresurus flavoviridis_
 <a name="fige-29"></a>![Figure E-29\. Habu Pit Viper Habitat](image324.jpg)
 
 **Figure E-29\. Habu Pit Viper Habitat**
-
-* * *
+** *
 
 ![](image325.jpg)
 
@@ -688,8 +653,7 @@ _Cerastes cerastes_
 <a name="fige-30"></a>![Figure E-30\. Horned Desert Viper Habitat](image327.jpg)
 
 **Figure E-30\. Horned Desert Viper Habitat**
-
-* * *
+** *
 
 ![](image328.jpg)
 
@@ -709,8 +673,7 @@ _Ophiophagus hannah_
 <a name="fige-31"></a>![Figure E-31\. King Cobra Habitat](image329.jpg)
 
 **Figure E-31\. King Cobra Habitat**
-
-* * *
+** *
 
 ![](image330.jpg)
 
@@ -730,8 +693,7 @@ _Bungarus caeruleus_
 <a name="fige-32"></a>![Figure E-32\. Krait Habitat](image331.jpg)
 
 **Figure E-32\. Krait Habitat**
-
-* * *
+** *
 
 ![](image332.jpg)
 
@@ -751,8 +713,7 @@ _Vipera lebetina_
 <a name="fige-33"></a>![Figure E-33\. Levant Viper Habitat](image333.jpg)
 
 **Figure E-33\. Levant Viper Habitat**
-
-* * *
+** *
 
 ![](image334.jpg)
 
@@ -772,8 +733,7 @@ _Callaselasma rhodostoma_
 <a name="fige-34"></a>![Figure E-34\. Malayan Pit Viper Habitat](image335.jpg)
 
 **Figure E-34\. Malayan Pit Viper Habitat**
-
-* * *
+** *
 
 ![](image336.jpg)
 
@@ -795,8 +755,7 @@ _Eristicophis macmahonii_
 <a name="fige-35"></a>![Figure E-35\. McMahon's Viper Habitat](image338.jpg)
 
 **Figure E-35\. McMahon's Viper Habitat**
-
-* * *
+** *
 
 ![](image339.jpg)
 
@@ -818,8 +777,7 @@ _Atracaspis microlepidota_
 <a name="fige-36"></a>![Figure E-36\. Mole Viper or Burrowing Viper Habitat](image341.jpg)
 
 **Figure E-36\. Mole Viper or Burrowing Viper Habitat**
-
-* * *
+** *
 
 ![](image342.jpg)
 
@@ -839,8 +797,7 @@ _Vipera palaestinae_
 <a name="fige-37"></a>![Figure E-37\. Palestinian Viper Habitat](image343.jpg)
 
 **Figure E-37\. Palestinian Viper Habitat**
-
-* * *
+** *
 
 ![](image344.jpg)
 
@@ -860,8 +817,7 @@ _Bitis arietans_
 <a name="fige-38"></a>![Figure E-38\. Puff Adder Habitat](image345.jpg)
 
 **Figure E-38\. Puff Adder Habitat**
-
-* * *
+** *
 
 ![](image346.jpg)
 
@@ -883,8 +839,7 @@ _Bitis nasicornis_
 <a name="fige-39"></a>![Figure E-39\. Rhinoceros Viper or River Jack Habitat](image348.jpg)
 
 **Figure E-39\. Rhinoceros Viper or River Jack Habitat**
-
-* * *
+** *
 
 ![](image349.jpg)
 
@@ -904,8 +859,7 @@ _Vipera russellii_
 <a name="fige-40"></a>![Figure E-40\. Russell's Viper Habitat](image350.jpg)
 
 **Figure E-40\. Russell's Viper Habitat**
-
-* * *
+** *
 
 ![](image351.jpg)
 
@@ -927,8 +881,7 @@ _Cerastes vipera_
 <a name="fige-41"></a>![Figure E-41\. Sand Viper Habitat](image353.jpg)
 
 **Figure E-41\. Sand Viper Habitat**
-
-* * *
+** *
 
 ![](image354.jpg)  
 <font size="2">JOHN H. TASHJIAN/FORT WORTH ZOO</font>
@@ -951,8 +904,7 @@ _Echis carinatus_
 <a name="fige-42"></a>![Figure E-42\. Saw-Scaled Viper Habitat](image356.jpg)
 
 **Figure E-42\. Saw-Scaled Viper Habitat**
-
-* * *
+** *
 
 ![](image357.jpg)
 
@@ -972,12 +924,10 @@ _Trimeresurus wagleri_
 <a name="fige-43"></a>![Figure E-43\. Wagler's Pit Viper or Temple Viper Habitat](image358.jpg)
 
 **Figure E-43\. Wagler's Pit Viper or Temple Viper Habitat**
-
-* * *
+** *
 
 ### VENOMOUS SNAKES OF AUSTRALIA
-
-* * *
+** *
 
 **Australian copperhead**  
 _Denisonia superba_  
@@ -995,8 +945,7 @@ _Denisonia superba_
 <a name="fige-44"></a>![Figure E-44\. Australian Copperhead Habitat](image359.jpg)
 
 **Figure E-44\. Australian Copperhead Habitat**
-
-* * *
+** *
 
 ![](image362.jpg)
 
@@ -1016,8 +965,7 @@ _Acanthophis antarcticus_
 <a name="fige-45"></a>![Figure E-45\. Death Adder Habitat](image361.jpg)
 
 **Figure E-45\. Death Adder Habitat**
-
-* * *
+** *
 
 ![](image360.jpg)
 
@@ -1037,8 +985,7 @@ _Oxyuranus scutellatus_
 <a name="fige-46"></a>![Figure E-46\. Taipan Habitat](image363.jpg)
 
 **Figure E-46\. Taipan Habitat**
-
-* * *
+** *
 
 ![](image364.jpg)
 
@@ -1058,12 +1005,10 @@ _Notechis scutatus_
 <a name="fige-47"></a>![Figure E-47\. Tiger Snake Habitat](image365.jpg)
 
 **Figure E-47\. Tiger Snake Habitat**
-
-* * *
+** *
 
 ### VENOMOUS SEA SNAKES
-
-* * *
+** *
 
 ![](image366.jpg)
 
@@ -1082,8 +1027,7 @@ _Laticauda colubrina_
 <a name="fige-48"></a>![Figure E-48\. Banded Sea Snake Habitat](image367.jpg)
 
 **Figure E-48\. Banded Sea Snake Habitat**
-
-* * *
+** *
 
 ![](image368.jpg)  
 
@@ -1103,12 +1047,10 @@ _Pelamis platurus_
 <a name="fige-49"></a>![Figure E-49\. Yellow-Bellied Sea Snake Habitat](image370.jpg)
 
 **Figure E-49\. Yellow-Bellied Sea Snake Habitat**
-
-* * *
+** *
 
 ### POISONOUS LIZARDS
-
-* * *
+** *
 
 ![](image371.jpg)
 
@@ -1128,8 +1070,7 @@ _Heloderma suspectum_
 <a name="fige-50"></a>![Figure E-50\. Gila Monster Habitat](image372.jpg)
 
 **Figure E-50\. Gila Monster Habitat**
-
-* * *
+** *
 
 ![](image373.jpg)  
 <font size="2">JOHN H. TASHJIAN/FORT WORTH ZOO</font>

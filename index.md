@@ -3,9 +3,15 @@ title: Home.md
 layout: index
 permalink: /
 ---
+### [Introduction](Introduction)
+
 ### [Psychology](02)
 
-### [Planning and Kits](03)
+### [Power](Power)
+
+### [Planning and Kits](Kits)
+
+### [Apps](Apps)
 
 ### [Basic Medicine](04)
 

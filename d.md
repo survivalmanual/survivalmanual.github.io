@@ -4,8 +4,7 @@ layout: default
 permalink: /d
 ---
 > Insects are often overlooked as a danger to the survivor. More people in the United States die each year from bee stings, and resulting anaphylactic shock, than from snake bites. A few other insects are venomous enough to kill, but often the greatest danger is the transmission of disease.
-
-* * *
+** *
 
 ![](image232.jpg)
 
@@ -21,8 +20,7 @@ _Scorpionidae_ order
 > **CAUTION**
 >
 > Scorpions sting with their tails, causing local pain, swelling, possible incapacitation, and death.
-
-* * *
+** *
 
 ![](image233.jpg)
 
@@ -35,8 +33,7 @@ _Laxosceles reclusa_
 
 **Distribution:** North America.
 
-
-* * *
+** *
 
 ![](image234.jpg)
 
@@ -48,8 +45,7 @@ _Atrax_ species (_A. robustus, A. formidablis_)
 **Habitat:** Woods, jungles, and brushy areas. Web has a funnel-like opening.
 
 **Distribution:** Australia. (Other nonvenomous species worldwide.)
-
-* * *
+** *
 
 ![](image235.jpg)
 
@@ -62,8 +58,7 @@ _Theraphosidae_ and _Lycosa_ species
 
 **Distribution:** Americas, southern Europe.
 
-
-* * *
+** *
 
 ![](image236.jpg)
 
@@ -77,8 +72,7 @@ _Latrodectus_ species
 **Distribution:** Varied species worldwide. Black widow in United States, red widow in Middle East, and brown widow in Australia.
 
 **NOTE:** Females are the poisonous gender. Red widow in the Middle East is the only spider known to be deadly to man.
-
-* * *
+** *
 
 ![](image237.jpg)
 
@@ -89,8 +83,7 @@ _Latrodectus_ species
 **Habitat:** Under bark and stones by day. Active at night.
 
 **Distribution:** Worldwide.
-
-* * *
+** *
 
 ![](image238.jpg)
 
@@ -105,8 +98,7 @@ _Latrodectus_ species
 **NOTE:** Bees have barbed stingers and die after stinging because their venom sac and internal organs are pulled out during the attack.
 
 
-
-* * *
+** *
 
 
 ![](image239.jpg)
@@ -120,8 +112,7 @@ _Latrodectus_ species
 **Distribution:** Worldwide.
 
 **NOTE:** An exception to general appearance is the velvet ant of the southern United States. It is a flightless wasp with red and black alternating velvety bands.
-
-* * *
+** *
 
 ![](image240.jpg)
 

@@ -47,8 +47,7 @@ There are several species of venomous fish and invertebrates, all of which live 
 _Dasyatidae_ species  
 
 Stingrays inhabit shallow water, especially in the tropics, but in temperate regions as well. All have a distinctive ray shape, but coloration may make them hard to spot unless they are swimming. The venomous, barbed spines in their tails can cause severe or fatal injury.
-
-* * *
+** *
 
 ![](image244.jpg)
 
@@ -56,8 +55,7 @@ Stingrays inhabit shallow water, especially in the tropics, but in temperate reg
 _Siganidae_ species  
 
 Rabbitfish are found predominantly on the reefs in the Pacific and Indian oceans. They average about 30 centimeters (12 inches) long and have very sharp spines in their fins. The spines are venomous and can inflict intense pain.
-
-* * *
+** *
 
 ![](image245.jpg)
 
@@ -65,16 +63,14 @@ Rabbitfish are found predominantly on the reefs in the Pacific and Indian oceans
 _Scorpaenidae_ species  
 
 Scorpion fish live mainly in the reefs in the Pacific and Indian oceans. They vary from 30 to 90 centimeters (12 to 35 inches) long, are usually reddish in coloration, and have long wavy fins and spines. They inflict an intensely painful sting.
-
-* * *
+** *
 
 ![](image246.jpg)
 
 **Siganus fish**  
 
 The siganus fish is small, about 10 to 15 centimeters (4 to 6 inches) long, and looks much like a small tuna. It has venemous spines in its dorsal and ventral fins. These spines can inflict painful stings.
-
-* * *
+** *
 
 ![](image247.jpg)
 
@@ -82,8 +78,7 @@ The siganus fish is small, about 10 to 15 centimeters (4 to 6 inches) long, and 
 _Synanceja_ species  
 
 Stonefish are found in the tropical waters of the Pacific and Indian oceans. Averaging about 30 centimeters (12 inches) in length, their subdued colors and lumpy shape provide them with exceptional camouflage. When stepped on, the fins in the dorsal spine inflict an extremely painful and sometimes fatal wound.
-
-* * *
+** *
 
 ![](image248.jpg)
 
@@ -91,8 +86,7 @@ Stonefish are found in the tropical waters of the Pacific and Indian oceans. Ave
 _Acanthuridae_ species  
 
 Tang or surgeonfish average 20 to 25 centimeters (8 to 10 inches) in length, with a deep body, small mouth, and bright coloration. They have needlelike spines on the side of the tail that cause extremely painful wounds. This fish is found in all tropical waters.
-
-* * *
+** *
 
 ![](image249.jpg)
 
@@ -100,8 +94,7 @@ Tang or surgeonfish average 20 to 25 centimeters (8 to 10 inches) in length, wit
 _Batrachoididae_ species  
 
 Toadfish are found in the tropical waters off the coasts of South and Central America. They are between 17.5 and 25 centimeters (7 to 10 inches) long and have a dull color and large mouths. They bury themselves in the sand and may be easily stepped on. They have very sharp, extremely poisonous spines on the dorsal fin (back).
-
-* * *
+** *
 
 ![](image250.jpg)
 
@@ -109,8 +102,7 @@ Toadfish are found in the tropical waters off the coasts of South and Central Am
 _Trachinidae_ species  
 
 The weever fish is a tropical fish that is fairly slim and about 30 centimeters (12 inches) long. All its fins have venomous spines that cause a painful wound.
-
-* * *
+** *
 
 ![](image251.jpg)
 
@@ -118,8 +110,7 @@ The weever fish is a tropical fish that is fairly slim and about 30 centimeters 
 _Hapalochlaena_ species  
 
 This small octopus is usually found on the Great Barrier Reef off eastern Australia. It is grayish-white with iridescent blue ringlike markings. This octopus usually will not bite unless stepped on or handled. Its bite is extremely poisonous and frequently lethal.
-
-* * *
+** *
 
 ![](image252.jpg)
 
@@ -127,8 +118,7 @@ This small octopus is usually found on the Great Barrier Reef off eastern Austra
 _Physalis_ species  
 
 Although it resembles a jellyfish, the Portuguese man-of-war is actually a colony of sea animals. Mainly found in tropical regions; however, the Gulf stream current can carry it as far as Europe. It is also found as far south as Australia. The floating portion of the man-of-war may be as small as 15 centimeters (6 inches), but the tentacles can reach 12 meters (40 feet) in length. These tentacles inflict a painful and incapacitating sting, but it is rarely fatal.
-
-* * *
+** *
 
 ![](image253.jpg)
 
@@ -136,8 +126,7 @@ Although it resembles a jellyfish, the Portuguese man-of-war is actually a colon
 _Conidae_ species  
 
 These cone-shaped shells have smooth, colorful mottling and long, narrow openings in the base of the shell. They live under rocks, in crevices and coral reefs, and along rocky shores and protected bays in tropical areas. All have tiny teeth that are similar to hypodermic needles. They can inject an extremely poisonous venom that acts very swiftly, causing acute pain, swelling, paralysis, blindness, and possible death within hours. Avoid handling all cone shells.
-
-* * *
+** *
 
 ![](image254.jpg)
 
@@ -148,19 +137,13 @@ These shells are found in both temperate and tropical waters. They are similar t
 ### FISH WITH TOXIC FLESH
 
 There are no simple rules to tell edible fish from those with poisonous flesh. [Figure 8-2](08#fig8-2) shows the most common toxic fish. All of these fish contain various types of poisonous substances or toxins in their flesh and are dangerous to eat. They have the following common characteristics:
-
-*   Most live in shallow water around reefs or lagoons.
-
-*   Many have boxy or round bodies with hard shell-like skins covered with bony plates or spines. They have small parrotlike mouths, small gills, and small or absent belly fins. Their names suggest their shape.
+*  Most live in shallow water around reefs or lagoons.
+*  Many have boxy or round bodies with hard shell-like skins covered with bony plates or spines. They have small parrotlike mouths, small gills, and small or absent belly fins. Their names suggest their shape.
 
 In addition to the above fish and their characteristics, barracuda and red snapper fish may carry ciguatera, a toxin that accumulates in the systems of fish that feed on tropical marine reefs.
 
 Without specific local information, take the following precautions:
-
-*   Be very careful with fish taken from normally shallow lagoons with sandy or broken coral bottoms. Reef-feeding species predominate and some may be poisonous.
-
-*   Avoid poisonous fish on the leeward side of an island. This area of shallow water consists of patches of living corals mixed with open spaces and may extend seaward for some distance. Many different types of fish, some poisonous, inhabit these shallow waters.
-
-*   Do not eat fish caught in any area where the water is unnaturally discolored. The discoloration may be indicative of plankton that cause various types of toxicity in plankton-feeding fish.
-
-*   Try fishing on the windward side or in deep passages leading from the open sea to the lagoon, but be careful of currents and waves. Live coral reefs drop off sharply into deep water and form a dividing line between the _suspected fish of the shallows_ and the _desirable deep-water species_. Deepwater fish are usually not poisonous. You can catch the various toxic fish even in deep water. _Discard all suspected reef fish,_ whether caught on the ocean or the reef side.
+*  Be very careful with fish taken from normally shallow lagoons with sandy or broken coral bottoms. Reef-feeding species predominate and some may be poisonous.
+*  Avoid poisonous fish on the leeward side of an island. This area of shallow water consists of patches of living corals mixed with open spaces and may extend seaward for some distance. Many different types of fish, some poisonous, inhabit these shallow waters.
+*  Do not eat fish caught in any area where the water is unnaturally discolored. The discoloration may be indicative of plankton that cause various types of toxicity in plankton-feeding fish.
+*  Try fishing on the windward side or in deep passages leading from the open sea to the lagoon, but be careful of currents and waves. Live coral reefs drop off sharply into deep water and form a dividing line between the _suspected fish of the shallows_ and the _desirable deep-water species_. Deepwater fish are usually not poisonous. You can catch the various toxic fish even in deep water. _Discard all suspected reef fish,_ whether caught on the ocean or the reef side.

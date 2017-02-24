@@ -4,8 +4,7 @@ layout: default
 permalink: /c
 ---
 > Plants basically poison on contact, through ingestion, by absorption, or by inhalation. They cause painful skin irritations upon contact, they cause internal poisoning when eaten, and they poison through skin absorption or inhalation in to the respiratory system. Many edible plants have deadly relatives and look-alikes. Preparation for military missions includes learning to identify those harmful plants in the target area. Positive identification of edible plants will eliminate the danger of accidental poisoning. There is no room for experimentation where plants are concerned, especially in unfamiliar territory.
-
-* * *
+** *
 
 ![](image222.jpg)
 
@@ -20,8 +19,7 @@ Spurge (_Euphorbiaceae_) Family
 > All parts of the plant are very poisonous to eat. The seeds are large and may be mistaken for a beanlike food.
 
 **Habitat and Distribution:** This plant is found in all tropical regions and has been introduced to temperate regions.
-
-* * *
+** *
 
 ![](image12.jpg)
 
@@ -36,8 +34,7 @@ Mahogany (_Meliaceae_) Family
 > All parts of the tree should be considered dangerous if eaten. Its leaves are a natural insecticide and will repel insects from stored fruits and grains. Take care not to eat leaves mixed with the stored food.
 
 **Habitat and Distribution:** Chinaberry is native to the Himalayas and eastern Asia but is now planted as an ornamental tree throughout the tropical and subtropical regions. It has been introduced to the southern United States and has escaped to thickets, old fields, and disturbed areas.
-
-* * *
+** *
 
 ![](image13.jpg)
 
@@ -52,8 +49,7 @@ Leguminosae (_Fabaceae_) Family
 > Contact with the pods and flowers causes irritation and blindness if in the eyes.
 
 **Habitat and Distribution:** Tropical areas and the United States.
-
-* * *
+** *
 
 ![](image14.jpg)
 
@@ -68,8 +64,7 @@ Lily (_Liliaceae_) Family
 All parts of this plant are very poisonous. Death camas does not have the onion smell.
 
 **Habitat and Distribution:** Death camas is found in wet, open, sunny habitats, although some species favor dry, rocky slopes. They are common in parts of the western United States. Some species are found in the eastern United States and in parts of the North American western subarctic and eastern Siberia.
-
-* * *
+** *
 
 ![](image224.jpg)
 
@@ -84,8 +79,7 @@ Vervain (_Verbenaceae_) Family
 > All parts of this plant are poisonous if eaten and can be fatal. This plant causes dermatitis in some individuals.
 
 **Habitat and Distribution:** Lantana is grown as an ornamental in tropical and temperate areas and has escaped cultivation as a weed along roads and old fields.
-
-* * *
+** *
 
 ![](image225.jpg)
 
@@ -100,8 +94,7 @@ Spurge (_Euphorbiaceae_) Family
 > This tree is extremely toxic. It causes severe dermatitis in most individuals after only 0.5 hour. Even water dripping from the leaves may cause dermatitis. The smoke from burning it irritates the eyes. No part of this plant should be considered a food.
 
 **Habitat and Distribution:** The tree prefers coastal regions. It is found in south Florida, the Caribbean, Central America, and northern South America.
-
-* * *
+** *
 
 ![](image226.jpg)
 
@@ -116,8 +109,7 @@ Dogbane (_Apocynaceae_) Family
 All parts of the plant are very poisonous. Do not use the wood for cooking; it gives off poisonous fumes that can poison food.
 
 **Habitat and Distribution:** This native of the Mediterranean area is now grown as an ornamental in tropical and temperate regions.
-
-* * *
+** *
 
 ![](image227.jpg)
 
@@ -132,8 +124,7 @@ Pangi Family
 All parts are poisonous, especially the fruit.
 
 **Habitat and Distribution:** Pangi trees grow in southeast Asia.
-
-* * *
+** *
 
 ![](image15.jpg)
 
@@ -148,8 +139,7 @@ Spurge (_Euphoriaceae_) Family
 > The seeds taste sweet but their oil is violently purgative. All parts of the physic nut are poisonous.
 
 **Habitat and Distribution:** Throughout the tropics and southern United States.
-
-* * *
+** *
 
 ![](image16.jpg)
 
@@ -164,8 +154,7 @@ Parsley (_Apiaceae_) Family
 > This plant is very poisonous, and even a very small amount may cause death. This plant is easy to confuse with wild carrot or Queen Anne's lace, especially in its first stage of growth. Wild carrot or Queen Anne's lace has hairy leaves and stems and smells like carrot. Poison hemlock does not.
 
 **Habitat and Distribution:** Poison hemlock grows in wet or moist ground like swamps, wet meadows, stream banks, and ditches. Native to Eurasia, it has been introduced to the United States and Canada.
-
-* * *
+** *
 
 ![](image17.jpg)
 
@@ -180,8 +169,7 @@ Cashew (_Anacardiacese_) Family
 > All parts, at all times of the year, can cause serious contact dermatitis.
 
 **Habitat and Distribution:** Poison ivy and oak can be found in almost any habitat in North America.
-
-* * *
+** *
 
 ![](image228.jpg)
 
@@ -196,8 +184,7 @@ Cashew (_Anacardiacese_) Family
 > All parts can cause serious contact dermatitis at all times of the year.
 
 **Habitat and Distribution:** Poison sumac grows only in wet, acid swamps in North America.
-
-* * *
+** *
 
 ![](image18.jpg)
 
@@ -212,8 +199,7 @@ Leguminosae (_Fabaceae_) Family
 > This plant is one of the most dangerous plants. One seed may contain enough poison to kill an adult.
 
 **Habitat and Distribution:** This is a common weed in parts of Africa, southern Florida, Hawaii, Guam, the Caribbean, and Central and South America.
-
-* * *
+** *
 
 ![](image229.jpg)
 
@@ -228,8 +214,7 @@ Logania (_Loganiaceae_) Family
 The berries contain the disklike seeds that yield the poisonous substance strychnine. All parts of the plant are poisonous.
 
 **Habitat and Distribution:** A native of the tropics and subtropics of southeastern Asia and Australia.
-
-* * *
+** *
 
 ![](image230.jpg)
 
@@ -244,8 +229,7 @@ Trumpet creeper (_Bignoniaceae_) Family
 > This plant causes contact dermatitis.
 
 **Habitat and Distribution:** This vine is found in wet woods and thickets throughout eastern and central North America.
-
-* * *
+** *
 
 ![](image231.jpg)
 
