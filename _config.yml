@@ -1,0 +1,31 @@
+---
+title: Survival Manual
+description: Survival Manual for Android with Offline in mind
+relative_permalinks: false
+markdown: kramdown
+url: "http://survivalmanual.github.io"
+
+exclude:
+  - app.coffee
+  - CNAME
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - Rakefile
+  - README.md
+  - script
+  - vendor/bundle
+  - test
+  - tests
+  - assets/vendor/selectivizr/tests
+  - assets/vendor/clipboard/test
+
+gems:
+  - jekyll-seo-tag
+
+sass:
+    sass_dir: _sass
+    style: :compressed
+
+
