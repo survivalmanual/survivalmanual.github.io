@@ -24,8 +24,5 @@ exclude:
 gems:
   - jekyll-seo-tag
 
-sass:
-    sass_dir: _sass
-    style: :compressed
 
 
